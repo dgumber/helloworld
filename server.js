@@ -16,7 +16,7 @@
  
  // setup a 'route' to listen on the default url path
  app.get("/", (req, res) => {
-     res.send("Dev Gumber- 115455214");
+     res.send("Dev Gumber-115455214");
  });
  // setup http server to listen on HTTP_PORT
  app.listen(HTTP_PORT);
